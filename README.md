@@ -8,3 +8,5 @@ https://mystifying-brahmagupta-654337.netlify.com
 
 TRILLO
 https://flamboyant-chandrasekhar-93c81a.netlify.com
+
+all a django project base on blog-app
